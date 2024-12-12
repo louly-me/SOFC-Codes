@@ -1,5 +1,5 @@
 # SOFC-Codes
-This repository contains a Python script for modeling and simulating key electrochemical losses in a Solid Oxide fuel cell. These calculations are used to analyze and optimize fuel cell performance under various operating conditions.
+This repository contains a Python script for modeling and simulating key electrochemical losses in a Solid oxide fuel cell. These calculations are used to analyze and optimize fuel cell performance under various operating conditions.
 
 ## Key Parameters
 Reaction kinetics (e.g., transfer coefficients, reaction orders, activation energies)
